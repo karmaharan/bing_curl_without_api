@@ -15,7 +15,7 @@ The `search_and_fetch` Python script allows users to perform Bing searches and e
 1. **Installation:**
    - Clone the repository:
      ```
-     git clone https://github.com/karmaharan/bing_curl_without_api/
+     git clone https://github.com/karmaharan/bing_curl_without_api.git
      ```
    
 2. **Dependencies:**
